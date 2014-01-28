@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1318173206 source:c:\users\mike\desktop\juegos\tic tac toe\main.cpp
+	<iostream>
+	<conio.h>
+	<conio.c>
+
+1318362764 source:c:\users\richard\desktop\tic tac toe\main.cpp
+	<iostream>
+	<conio2.h>
+	<windows.h>
+
+1318370826 source:e:\programming\proyectos\proyectos de programacion aplicada\tic tac toe\main.cpp
+	<iostream>
+	<conio2.h>
+	<windows.h>
+	<ctype.h>
+	<stdio.h>
+
+1318526932 source:e:\programming\proyectos\proyectos de programacion aplicada\portafolio\tic tac toe\main.cpp
+	<iostream>
+	<conio2.h>
+	<windows.h>
+
+1318708246 source:c:\users\richard\desktop\dropbox\dropbox\programacion\tic tac toe\main.cpp
+	<iostream>
+	<conio2.h>
+	<windows.h>
+
+1319578949 source:c:\users\richard\documents\microsoft office 2010 save folder\programming\proyectos\proyectos de programacion aplicada\portafolio\tic tac toe\main.cpp
+	<iostream>
+	<conio2.h>
+	<windows.h>
+

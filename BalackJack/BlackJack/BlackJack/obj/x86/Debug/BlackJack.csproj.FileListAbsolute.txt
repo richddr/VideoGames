@@ -1,0 +1,40 @@
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\BlackJack\BlackJack\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\BlackJack\BlackJack\obj\x86\Debug\BlackJack.Form1.resources
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\BlackJack\BlackJack\obj\x86\Debug\BlackJack.Properties.Resources.resources
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\BlackJack\BlackJack\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\BlackJack\BlackJack\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\BlackJack\BlackJack\obj\x86\Debug\BlackJack.exe
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\BlackJack\BlackJack\obj\x86\Debug\BlackJack.pdb
+C:\Users\MIke\Dropbox\Programacion\Rich\BlackJack\BlackJack\obj\x86\Debug\BlackJack.exe
+C:\Users\MIke\Dropbox\Programacion\Rich\BlackJack\BlackJack\obj\x86\Debug\BlackJack.pdb
+C:\Users\MIke\Dropbox\Programacion\Rich\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\MIke\Dropbox\Programacion\Rich\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\MIke\Dropbox\Programacion\Rich\BlackJack\BlackJack\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MIke\Dropbox\Programacion\Rich\BlackJack\BlackJack\obj\x86\Debug\BlackJack.Form1.resources
+C:\Users\MIke\Dropbox\Programacion\Rich\BlackJack\BlackJack\obj\x86\Debug\BlackJack.Properties.Resources.resources
+C:\Users\MIke\Dropbox\Programacion\Rich\BlackJack\BlackJack\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MIke\Dropbox\Programacion\Rich\BlackJack\BlackJack\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Richard\Desktop\DropBox\Dropbox\Programacion\Rich\BlackJack\BlackJack\obj\x86\Debug\BlackJack.exe
+C:\Users\Richard\Desktop\DropBox\Dropbox\Programacion\Rich\BlackJack\BlackJack\obj\x86\Debug\BlackJack.pdb
+C:\Users\Richard\Desktop\DropBox\Dropbox\Programacion\Rich\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\Richard\Desktop\DropBox\Dropbox\Programacion\Rich\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\Richard\Desktop\DropBox\Dropbox\Programacion\Rich\BlackJack\BlackJack\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\DropBox\Dropbox\Programacion\Rich\BlackJack\BlackJack\obj\x86\Debug\BlackJack.Form1.resources
+C:\Users\Richard\Desktop\DropBox\Dropbox\Programacion\Rich\BlackJack\BlackJack\obj\x86\Debug\BlackJack.Properties.Resources.resources
+C:\Users\Richard\Desktop\DropBox\Dropbox\Programacion\Rich\BlackJack\BlackJack\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Richard\Desktop\DropBox\Dropbox\Programacion\Rich\BlackJack\BlackJack\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Richard\Desktop\BlackJack\BlackJack\obj\x86\Debug\BlackJack.exe
+C:\Users\Richard\Desktop\BlackJack\BlackJack\obj\x86\Debug\BlackJack.pdb
+C:\Users\Richard\Desktop\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\Richard\Desktop\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\Richard\Desktop\BlackJack\BlackJack\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\BlackJack\BlackJack\obj\x86\Debug\BlackJack.Form1.resources
+C:\Users\Richard\Desktop\BlackJack\BlackJack\obj\x86\Debug\BlackJack.Properties.Resources.resources
+C:\Users\Richard\Desktop\BlackJack\BlackJack\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Richard\Desktop\BlackJack\BlackJack\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\BlackJack\BlackJack\bin\Debug\BlackJack.exe.manifest
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\BlackJack\BlackJack\bin\Debug\BlackJack.application
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\BlackJack\BlackJack\obj\x86\Debug\BlackJack.exe.manifest
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\BlackJack\BlackJack\obj\x86\Debug\BlackJack.application
